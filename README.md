@@ -1,6 +1,8 @@
-# Ecological-Applications-manuscript
+# Both feeding stages of global, crop pollinating Diptera require diverse diet and habitat needs
 
 
-Data table 1 and 2 are files to be included for peer review in the manuscript 
+For the complete list of pollinating fly species, their diet and habitat needs, and the biogeographical regions they currently occupy, please see "Data table 1" file
+
+
 
 The R code document was the code used to create the nestedness matrix
