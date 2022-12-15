@@ -7,5 +7,5 @@ For the complete list of pollinating fly species, their diet and habitat needs, 
 For the additional 12 species of pollinating flies where we were able to record habitat needs but not diet needs, please see "Habitat only database.pdf" file
 
 
-To test the statistics completed in R, please download the 'rawhabitatdata1.csv' file and copy and paste the R code and annotations from the 'R code and analysis.docx' file into your R browser (I used RStudio as I have a Mac) to complete the code used to create the nestedness matrix displayed in the manuscript.
+To test the statistics completed in R, please download the 'rawhabitatdata1.csv' and 'fhabitat.csv' files as well as the 'R code.R' file that will open up into your R browser automatically (****I used RStudio as I have a Mac)
 
